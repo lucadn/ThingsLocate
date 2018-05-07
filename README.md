@@ -2,6 +2,7 @@
 A ThingSpeak-based platform for indoor positioning of IoT devices using WiFi fingerprinting
 
 The platform includes two main components:
+
 a) Matlab code to be imported in a ThingSpeak Matlab analysis app, that reacts to WiFi fingerprinting data uploaded on a set of input ThingSpeak channels (RSSI channels), determines the position of the device that uploaded the data, and returns the position estimation on an output ThingSpeak Channel (Locate channel). Several different algorithms and metrics can be selected in the Locate App.
 
 b) client-side code for the following devices:
