@@ -17,5 +17,5 @@ Irrespectively of the device, the code offers the following features:
 (c) Luca De Nardis, 2018
 When using this platform in scientific publications, please refer to the following work:
 
-L. De Nardis, G. Caso, M.-G. Di Benedetto, "ThingsLocate: a ThingSpeak-based indoor positioning platform for location-aware Internet of
-Things applications," submitted to the IEEE Internet of Things Journal, 2018.
+L. De Nardis, G. Caso, M.-G. Di Benedetto, "TThingsLocate: a ThingSpeak-based indoor
+positioning platform for academic research on location-aware Internet of Things," submitted to MDPI Techologies, 2019.
