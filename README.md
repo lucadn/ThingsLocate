@@ -19,4 +19,4 @@ Irrespectively of the device, the code offers the following features:
 When using this platform in scientific publications, please refer to the following work:
 
 L. De Nardis, G. Caso, M. G. Di Benedetto, "ThingsLocate: a ThingSpeak-based indoor
-positioning platform for academic research on location-aware Internet of Things," to appear in MDPI Techologies, Special  Issue "Technology Advances on IoT Learning and Teaching, "2019.
+positioning platform for academic research on location-aware Internet of Things," to appear in MDPI Techologies, Special  Issue "Technology Advances on IoT Learning and Teaching," 2019.
