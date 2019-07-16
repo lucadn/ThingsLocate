@@ -14,7 +14,8 @@ Irrespectively of the device, the code offers the following features:
 - Automatic sorting of averaged measurements, in order to minimize the impact of dropping measurements when too many APs are detected
 - Local file storage of measurements, allowing for easy collection of Test Points/Reference Points in known locations
 
-(c) Luca De Nardis, 2018
+(c) Luca De Nardis, 2019
+
 When using this platform in scientific publications, please refer to the following work:
 
 L. De Nardis, G. Caso, M. G. Di Benedetto, "ThingsLocate: a ThingSpeak-based indoor
